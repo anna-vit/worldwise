@@ -37,14 +37,14 @@
       "id": 98443205
     },
     {
-      "cityName": "Spercheiada",
-      "country": "Greece",
-      "emoji": "🇬🇷",
-      "date": "2024-05-16T20:15:23.000Z",
-      "notes": "",
+      "cityName": "Koluszki",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-02-01T16:42:39.132Z",
+      "notes": "test",
       "position": {
-        "lat": "38.788345355085625",
-        "lng": "22.060546875"
+        "lat": "51.72702815704777",
+        "lng": "19.863281250000004"
       },
       "id": 98443206
     }
